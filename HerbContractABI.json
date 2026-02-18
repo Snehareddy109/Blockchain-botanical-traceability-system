@@ -1,0 +1,16 @@
+[
+  {
+    "inputs": [
+      {"internalType":"string","name":"batchId","type":"string"},
+      {"internalType":"string","name":"name","type":"string"},
+      {"internalType":"string","name":"location","type":"string"},
+      {"internalType":"string","name":"harvestDate","type":"string"},
+      {"internalType":"string","name":"imageURL","type":"string"},
+      {"internalType":"string","name":"owner","type":"string"}
+    ],
+    "name": "addHerb",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
